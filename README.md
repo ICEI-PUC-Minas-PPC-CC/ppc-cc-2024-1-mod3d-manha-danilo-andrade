@@ -15,7 +15,3 @@
 # Documentação
 LINK DO JOGO : 
 https://zap.struckd.com/games/joga-parkour-aula-will
-# Código
-
-<li><a href="src/README.md"> Código Fonte</a></li>
-
